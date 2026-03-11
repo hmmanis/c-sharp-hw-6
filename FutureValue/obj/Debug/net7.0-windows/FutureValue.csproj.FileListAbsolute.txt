@@ -1,0 +1,26 @@
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.frmFutureValue.resources
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.GenerateResource.cache
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.AssemblyInfoInputs.cache
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.AssemblyInfo.cs
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.exe
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.deps.json
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.runtimeconfig.json
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.dll
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\bin\Debug\net7.0-windows\FutureValue.pdb
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.dll
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\refint\FutureValue.dll
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.pdb
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.genruntimeconfig.cache
+C:\Users\Heath\OneDrive\Documents\Important\College\Augusta Technical College\Spring 2026\C#\cse8_allfiles (1)\ExSolutions\ch06\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\ref\FutureValue.dll
+C:\Users\Heath\C#\c-sharp-hw-6\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.frmFutureValue.resources
+C:\Users\Heath\C#\c-sharp-hw-6\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.GenerateResource.cache
+C:\Users\Heath\C#\c-sharp-hw-6\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heath\C#\c-sharp-hw-6\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.AssemblyInfoInputs.cache
+C:\Users\Heath\C#\c-sharp-hw-6\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.AssemblyInfo.cs
+C:\Users\Heath\C#\c-sharp-hw-6\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\Heath\C#\c-sharp-hw-6\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.sourcelink.json
+C:\Users\Heath\C#\c-sharp-hw-6\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.dll
+C:\Users\Heath\C#\c-sharp-hw-6\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\refint\FutureValue.dll
+C:\Users\Heath\C#\c-sharp-hw-6\Ex 6-1 FutureValue\FutureValue\obj\Debug\net7.0-windows\FutureValue.pdb
